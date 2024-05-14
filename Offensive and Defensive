@@ -1,0 +1,4 @@
+Offensive Security - breaking into computer system using softwares, and finding loopholes in system or applications to get unathorized access to them.
+Offensive security represents the process where you simulate a hacker's actions to find vulnerabilities in a system.
+To scan website, -u command can be used. -w takes a list of words to iterate through to find hidden pages.[ use tools like Gobuster] 
+Defensive security is somewhat the opposite of offensive security, as it is concerned with two main tasks: { 1. Preventing intrusions from occurring 2. Detecting intrusions when they occur and responding properly}
